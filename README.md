@@ -21,6 +21,13 @@
 
 ## Installation
 
+### Items
+- Add the following code to your `qb-core/shared/ıtems.lua`
+```
+ ['dart'] 			 = {['name'] = 'dart', 			  	['label'] = 'Dart', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'dart.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Dart Item.'},
+
+```
+
 ### Script
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
