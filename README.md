@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/352733374235803648/1115443897724842106/relaseDART.png)
+![image]([https://cdn.discordapp.com/attachments/352733374235803648/1115443897724842106/relaseDART.png](https://cdn.discordapp.com/attachments/1186357096216801381/1207048476140118016/DAR.png?ex=65de3a7e&is=65cbc57e&hm=a65bfc6d7f21e441c1a4bb7e479098cc1cbc6e8f5bf3dc63d870c24f4c8bb736&))
 
 ![image](https://cdn.discordapp.com/attachments/348332068574461953/1115376235908968601/code.png)
 
@@ -24,7 +24,7 @@
 ### Items
 - Add the following code to your `qb-core/shared/ıtems.lua`
 ```
- ['dart'] 			 = {['name'] = 'dart', 			  	['label'] = 'Dart', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'dart.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Dart Item.'},
+dart = { name = 'dart', label = 'Dart', weight = 100, type = 'item', image = 'dart.png', unique = false, useable = true, shouldClose = true, combinable = nil, description = 'Dart' },
 
 ```
 
