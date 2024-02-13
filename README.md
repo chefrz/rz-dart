@@ -9,7 +9,7 @@
 ## Video Showcase
 - https://youtu.be/F0u5xWA6GFI
 ## Discord
-- https://discord.gg/zertxMj7Y
+- https://discord.gg/3JHgCdUFtG
 
 ## Features
 - Easy editable Config file
